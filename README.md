@@ -2,9 +2,9 @@
 Simple code for requesting and handling http response to work with and PHP MySQL.
 Your android application can be 2 types.
   
-  -1. Storing a note in your phone.
+  - 1. Storing a note in your phone.
   
-  -2. Storing a note in the server.
+  - 2. Storing a note in the server.
 
 ### POST Request for Insert data
 
