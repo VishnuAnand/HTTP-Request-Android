@@ -17,3 +17,4 @@ Your android application can be 2 types.
 ### POST Request for Insert data
 
 By using this method, you can easily insert or update data in your server. You need to create a PHP code in your Server or localhost.
+
