@@ -16,9 +16,9 @@ StringRequest stringRequest = new StringRequest(Request.Method.POST, URL, new Re
 }) {
 
 /*
-*getParams function will be called while the queue requests to the URL, so we need to provide data by creating a String Map,
-*and by putting parameters into it. Example: If you wrote ```sh $var=$_POST['var1']; ``` in PHP to get var1 from the request.
-* You should put the key as var1 in String Map. Example : 
+* getParams function will be called while the queue requests to the URL, so we need to provide data by creating a String Map,
+* and by putting parameters into it. Example: If you wrote ##### $var=$_POST['var1']; ##### in PHP to get var1 from the request.
+* You should put the key as var1 in String Map. Example : ##### params.put("var1", "value"); #####
 */
 
 		@Override
